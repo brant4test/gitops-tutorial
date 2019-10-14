@@ -101,7 +101,7 @@ spec:
 
         # replace or remove the following URL
 #        - --git-url=git@github.com:weaveworks/flux-get-started
-        - --git-url=git@github.com:brant4test/gitops-tutorial.git
+        - --git-url=git@github.com:brant4test/gitops-tutorial
         - --git-url=deploy/kubernetes
         - --git-branch=master
 
